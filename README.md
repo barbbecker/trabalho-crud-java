@@ -21,7 +21,7 @@ O que foi necessário para rodar o trabalho:
 - Eclipse
 - Docker ou MySQL Workbench instalado direto na máquina
 
-### Instalação do Ambiente
+### Instalação do Ambiente com Docker
 
 Passos necessários para rodar o trabalho: 
 
