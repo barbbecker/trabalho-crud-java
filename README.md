@@ -38,7 +38,7 @@ docker-compose up
 
 - Após abrir o projeto no Eclipse.
 
-## Autoras
+## Autora
 
 * *Bárbara Becker da Rosa* -  [GitHub](https://github.com/barbbecker)
 * E-mail: [bbeckerdarosa@gmail.com](bbeckerdarosa@gmail.com)
