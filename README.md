@@ -8,8 +8,7 @@ Para a camada de persistência, utilizamos um banco de dados relacional, o MySQL
   - [Introdução](#introdu%C3%A7%C3%A3o)
     - [Pré-requisitos](#pr%C3%A9-requisitos)
     - [Instalação do Trabalho](#instala%C3%A7%C3%A3o-do-trabalho)
-  - [Autoras](#autoras)
-  - [License](#license)
+  - [Autora](#autora)
 
 ## Introdução
 
@@ -22,32 +21,22 @@ O que foi necessário para rodar o trabalho:
 - Eclipse
 - Docker ou MySQL Workbench instalado direto na máquina
 
-### Instalação do Trabalho
+### Instalação do Ambiente
 
-Passos necessários para rodar o projeto: 
+Passos necessários para rodar o trabalho: 
 
 - Clonar no projeto: 
 ```
-  git clone https://github.com/s2b-barbaras/achei_frontend
+  git clone https://github.com/barbbecker/trabalho-crud-java.git
 ```
-- Instalar o angular-cli para ter acesso as ferramentas necessárias para rodar um projeto Angular em desenvolvimento: 
-
+- Abrir o terminal no diretório Resources:
 ```
-npm install -g @angular/cli
-```
-
-- Entrar no diretório do projeto e instalar as dependências necessárias:
-
-```
-cd achei_frontend
-
-npm install
+docker-compose up
 ```
 
-- rodar o projeto:
-```
-npm start ou ng serve
-```
+- Rodar o script do mySQL que está dentro da pasta Resources, para assim importar o squema do banco.
+
+- Após abrir o projeto no Eclipse.
 
 ## Autoras
 
